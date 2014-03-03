@@ -1,4 +1,4 @@
 mpgilbertusa.github.io
 ======================
 
-GitHub user page.
+My wondrously sparse GitHub user page.
