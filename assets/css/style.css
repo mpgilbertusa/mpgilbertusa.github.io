@@ -16,7 +16,7 @@ body {
 	background-size: cover;
 }
 
-/*.background-2 {
+.background-2 {
 	background: url(../images/photo-2.jpg) center center;
 	background-size: cover;
 }
@@ -25,16 +25,6 @@ body {
 	background: url(../images/photo-3.jpg) center center;
 	background-size: cover;
 }
-
-.background-4 {
-	background: url(../images/photo-4.jpg) center center;
-	background-size: cover;
-}
-
-.background-5 {
-	background: url(../images/photo-5.jpg) center center;
-	background-size: cover;
-}*/
 
 #preloader {
 	position: absolute;
